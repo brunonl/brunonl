@@ -62,5 +62,6 @@ const bruno = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunomeireles)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-7025F5?style=for-the-badge&logo=kofi&logoColor=white)](https://brunomeireles.vercel.app/)
 
 </div>
