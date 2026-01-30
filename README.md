@@ -13,7 +13,7 @@
 ```typescript
 const bruno = {
     localizacao: "Minas Gerais, Brasil 🇧🇷",
-    experiencia: "10+ anos liderando engenharia frontend",
+    experiencia: "10+ anos trabalhando com frontend",
     foco: ["Performance", "Escalabilidade", "Qualidade de Código"],
     hobbies: [
         "🏍️ Motociclismo", 
@@ -50,7 +50,7 @@ const bruno = {
 
 ### Design & UX
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Design System](https://img.shields.io/badge/Design_System-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Storybook](https://img.shields.io/badge/Design_System-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 ### IA & Automação
 ![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
