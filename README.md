@@ -2,7 +2,7 @@
   
 # Hello there! I'm Bruno Meireles 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=500&lines=Senior+Frontend+Engineer;10%2B+Years+Working+With+Frontend;Tech+Lead+%40+Brazil;Performance+%26+Scale+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=500&lines=Senior+Frontend+Engineer;Clean+Code+%26+Testing;Performance+%26+UX+Obsessed" alt="Typing SVG" />
 
 </div>
 
@@ -13,7 +13,7 @@
 ```typescript
 const bruno = {
     location: "Minas Gerais, Brazil 🇧🇷",
-    experience: "10+ years working with Frontend Engineering",
+    experience: "10+ years working with Frontend Development",
     focus: ["Performance", "Scalability", "Code Quality"],
     hobbies: [
         "🏍️ Motorcycles", 
